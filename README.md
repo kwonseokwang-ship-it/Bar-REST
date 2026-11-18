@@ -1,4 +1,4 @@
-# Bar-REST
+# BAR REST
 <!doctype html>
 <html lang="ja">
 <head>
